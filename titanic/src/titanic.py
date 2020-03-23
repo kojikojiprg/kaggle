@@ -173,10 +173,8 @@ test_x, test_y = Variable(test_x), Variable(test_y)
 # %%
 net.eval()
 result = torch.max(net(test_x).data, 1)[1]
-result
 
 
-# %%
 def calc_accuracy(result, target):
     sum_correct = 0
     for r, t in zip(result, target):
