@@ -1,4 +1,5 @@
-.venv
+.kaggle_venv
 .vscode
 .DS_Store
+.ipynb-checkpoints
 data
