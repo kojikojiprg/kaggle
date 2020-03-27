@@ -5,3 +5,5 @@
 data
 kaggle.json
 *.py
+*.zip
+*.csv
