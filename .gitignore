@@ -1,4 +1,4 @@
-.kaggle_venv
+.venv
 .vscode
 .DS_Store
 .ipynb-checkpoints
@@ -6,4 +6,3 @@ data
 kaggle.json
 *.py
 *.zip
-*.csv
